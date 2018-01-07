@@ -1,13 +1,6 @@
-# Node-notes
-jehkejdk
-``` javascript
-var abc= 'durgasravani';
-console.log('------',abc);
-```
 
-## kjkjkljlk
-kjkjlkmlkmlml
+# What is Node?
+Node is a javascript runfile that uses the v8 engine.
 
-### lkjmlkml
-lkjlklmlmlm
-
+# What is v8 engine?
+It is an opensource javascript engine written in c++ that takes javascript code and compiles it to machine code.
