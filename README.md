@@ -69,3 +69,7 @@ There are libraries built for all of these. This means we can focus on the speci
 
 ### NPM
 npm is a site where we always use it to get third party modules.
+
+
+In terminal.. type 'dir' for windows to view where you are.
+to go back, type cd..
