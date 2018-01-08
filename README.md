@@ -8,6 +8,9 @@ It is an opensource javascript engine written in c++ that takes javascript code 
 # Why is it so good at creating backend?
 Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient. Node.js' package ecosystem, npm, is the largest ecosystem of open source libraries in the world.
 
+
+### Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient. To explain this:
+
 ## I/O model-application
 communication from our node application to other things inside of the internet of things.It could be a database, read/write req. for example, google maps---for apps like these, they need to take an input and give back an output which takes time.
 
@@ -53,3 +56,16 @@ Instead of this whole example, if we take a webserver
 
 ## In WebServer
 If a web server comes in looking to query the database we can't process other users requests without firing separate threads. But node js is single threaded,which means our app runs on one single thread.This is even better with non-blocking I/O as blocking I/O causes CPU RAM wastages.
+
+
+### Node.js' package ecosystem, npm, is the largest ecosystem of open source libraries in the world. To explain this:
+
+The people in the community everyday develop libraries to solve problems in our node js application.  Things like 
+## validating objects,
+## creating servers and 
+## serving up content live using sockets. 
+
+There are libraries built for all of these. This means we can focus on the specific things related to out application without having to create all this infrastructure before we can even write real code.
+
+### NPM
+npm is a site where we always use it to get third party modules.
